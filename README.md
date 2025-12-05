@@ -70,7 +70,7 @@ I am a researcher passionate about **AI for Math**, **AI for Education** and **N
 - **Core Tech:** `PEFT/LoRA`, `Reinforcement Learning`, `BERT`, `Llama-3`.
 - **Highlight:** Engineered a dual-component architecture (Memory Selector + Generator) to solve "persona drift," achieving **95.5% alignment accuracy** on Openness.
 
-#### 3. [AB-Testing-CUPAC-Framework]
+#### 3. [[AB-Testing-trend-CUPAC-Framework]](https://github.com/cordelia0325/ab-testing-toolkit)
 *Robust trend detection and advanced variance reduction framework for large-scale online experimentation.*
 - **Core Tech:** `Python (Statsmodels, Scikit-learn)`, `Mann-Kendall Test`, `Sen's slope`, `Ordinary Least Squares with Newey-West (OLS-NW)`, `CUPED/CUPAC`, `Causal Inference`.
 
