@@ -35,9 +35,11 @@ Here are some ideas to get you started:
 
 I am a researcher passionate about **AI for Math**, **AI for Education** and **Neuro-symbolic Reasoning**. With a rigorous foundation in **Applied Mathematics** (Columbia University & UCSD), I aim to build interpretable AI systems that can diagnose student misconceptions with the precision of a human tutor.
 
-- 🎓 **Education:** M.S. in Applied Mathematics @ **Columbia University** (GPA: 4.0/4.33); B.S. in Mathematics @ **UC San Diego** (cum laude).
+- 🎓 **Education:** M.S. in Applied Mathematics @ **Columbia University** (GPA: 4.0/4.33); B.S. in Mathematics @ **UC San Diego** (_cum laude_).
 - 🔭 **Current Research:** Developing a **Dual-Layer Cognitive Model** for math error diagnosis using Semantic Parsing and LLMs at **MBZUAI**.
 - 💡 **Interests:** Neuro-symbolic AI, Cognitive Modeling, Semantic Parsing, Educational Equity.
+
+Here is my [[CV]](https://github.com/cordelia0325/cordelia0325/blob/main/Curriculum_Vitae.pdf) 📑. Please Check ☺️!
 
 ---
 
