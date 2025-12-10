@@ -65,7 +65,7 @@ I am a researcher passionate about **AI for Math**, **AI for Education** and **N
 - **Highlight:** Implemented a **2-level hierarchical error taxonomy** grounded in Newman's Error Analysis. Constructed a "Golden Dataset" by annotating LLM-generated error traces.
 - *(Note: Code snippets available; full codebase to be released upon publication.)*
 
-#### 2. [Persona-LLM-Agent]
+#### 2. [[Persona-LLM-Agent]](https://github.com/cordelia0325/humanized-conversation-with-big5-personality)
 *A context-aware conversational agent simulating Big Five personality traits.*
 - **Core Tech:** `PEFT/LoRA`, `Reinforcement Learning`, `BERT`, `Llama-3`.
 - **Highlight:** Engineered a dual-component architecture (Memory Selector + Generator) to solve "persona drift," achieving **95.5% alignment accuracy** on Openness.
