@@ -39,7 +39,7 @@ I am a researcher passionate about **AI for Math**, **AI for Education** and **N
 - 🔭 **Current Research:** Developing a **Dual-Layer Cognitive Model** for math error diagnosis using Semantic Parsing and LLMs at **MBZUAI**.
 - 💡 **Interests:** Neuro-symbolic AI, Cognitive Modeling, Semantic Parsing, Educational Equity.
 
-Here is my [[CV]](https://github.com/cordelia0325/cordelia0325/blob/main/Curriculum_Vitae.pdf) 📑. Please Check ☺️!
+Here is my [[[CV]](https://www.dropbox.com/scl/fi/8qt32w9cn1692sibxqttk/Curriculum_Vitae_for_PhD_Application.pdf?rlkey=o5yeom2cx73b4x9m0j3n5pdno&st=hmsa0ss1&dl=0)] 📑. Please Check ☺️!
 
 ---
 
